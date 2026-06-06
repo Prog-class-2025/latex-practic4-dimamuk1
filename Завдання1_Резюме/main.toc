@@ -1,0 +1,6 @@
+\babel@toc {ukrainian}{}\relax 
+\contentsline {section}{\numberline {1}Особиста інформація}{1}{}%
+\contentsline {section}{\numberline {2}Освіта}{1}{}%
+\contentsline {section}{\numberline {3}Навички}{1}{}%
+\contentsline {subsection}{\numberline {3.1}Технічні навички}{2}{}%
+\contentsline {section}{\numberline {4}Досвід}{2}{}%
